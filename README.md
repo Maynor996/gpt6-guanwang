@@ -1,9 +1,10 @@
-# GPT6 官网是什么？怎么进
+# GPT6官网入口是什么？国内怎么安全进入
 
 中文说明页关键词：**gpt6官网**
 
 - GitHub Pages：https://maynor996.github.io/gpt6-guanwang/
-- 正文：`docs/index.html` · `docs/article.md`
+- SEO：澄清「GPT6官网」检索意图，给出国内可用体验路径与防仿站要点。
+- 正文：`docs/index.html` · `docs/article.md`（含配图）
 
 ## 软推荐（无 aff）
 
